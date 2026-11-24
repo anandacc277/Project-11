@@ -1,4 +1,4 @@
 output "message" {
-    value = "Project-11"
-  
+  value = "Project-11"
+
 }
